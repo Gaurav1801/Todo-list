@@ -53,7 +53,7 @@ function App() {
         />
         <button
           type='button'
-          className='btn border-0 rounded-5 mx-4 p-2 btn-secondary'
+          className='btn border-0 rounded-5 mx-5 p-2 btn-secondary'
           onClick={addItem}
         >
           +
